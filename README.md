@@ -1,10 +1,19 @@
 #Spillmaker - Energibil
-```template
-scene.setBackgroundColor(9)
-```
 
 ## Start!
+Tjolahopp. 
+
 ```blocks
+```
+
+## Ferdig!
+
+Hei!
+
+
+
+
+```template
 
 namespace SpriteKind {
     export const Drivstoff = SpriteKind.create()
@@ -159,3 +168,4 @@ game.onUpdateInterval(500, function () {
     }
 })
 ```
+
